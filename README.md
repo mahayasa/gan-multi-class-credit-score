@@ -1,2 +1,2 @@
-# TimeGAN Solving Imbalanced Regression for Customer Data
+# The Effectivenes of GAN-based Oversampling Method on Imbalanced Multi-class Credit Score Classification
 
